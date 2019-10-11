@@ -1,6 +1,6 @@
 module.exports = {
-    TOKEN: 'توكن البوت',    
+    TOKEN: 'NjMyMzEwODg0MTc3NDEyMTE0.XaDqzA.JRYZr9M7PlCasik8o1yU5dD0nUM',    
     YT_API_KEY: 'api ', 
-    prefix: 'البرفكس حق الميوزك خليه نفس البرفكس حق باقي الاوامر',
-    devs: ['الايدي حق صاحب لبوت ']
+    prefix: 'la',
+    devs: ['601918280159985666 ']
 }
